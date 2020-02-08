@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="10px" viewBox="0 0 43 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-3" transform="translate(-2140.000000, -418.000000)" stroke="#000000" stroke-width="1">
+            <g id="Group" transform="translate(2140.000000, 419.000000)">
+                <g id="arrow" transform="translate(-0.000000, 0.000000)">
+                    <line x1="2.27373675e-13" y1="4.3614" x2="42.712" y2="4.3614" id="Stroke-81"></line>
+                    <polyline id="Stroke-82" points="38.2871 4.8316906e-13 42.7131 4.426 38.2871 8.853"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
